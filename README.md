@@ -1,2 +1,2 @@
 # jupyter-rivm
-RIVM data in Jupyter noteboot
+RIVM data in Jupyter notebook
